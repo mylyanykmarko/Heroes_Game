@@ -1,0 +1,11 @@
+characters/Character.class
+main.class
+CharacterFactory.class
+kickbehavior/OrdinaryBehaviour.class
+characters/King.class
+characters/Elf.class
+characters/Knight.class
+kickbehavior/Behaviour.class
+kickbehavior/GodBehaviour.class
+characters/SwordMan.class
+characters/Hobbit.class
